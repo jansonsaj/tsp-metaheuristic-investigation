@@ -1,12 +1,12 @@
-# Group-07
+# TSP - Metaheuristic investigation
 
-In this coursework we look at generating improved solutions to the Travelling Salesman Problem using metaheuristics. In particular **Ant Colonony Optimisation** and a variant of the **Genetic Algorithm** are used. We initally compare the two metaheuristics against a greedy nearest neighbour algorithm and then against one another.
+We look at generating improved solutions to the Travelling Salesman Problem using metaheuristics. In particular **Ant Colonony Optimisation** and a variant of the **Genetic Algorithm** are used. We initally compare the two metaheuristics against a greedy nearest neighbour algorithm and then against one another.
 
 ## First time setup
 
 1. [Install Python 3](https://www.python.org/downloads/).
 1. Install JupyterLab with pip by running: `pip install jupyterlab`
-1. Clone this repository locally: `git clone https://github.coventry.ac.uk/380CT-2021/Group-07.git`
+1. Clone this repository locally
 1. Open terminal in the cloned directory
 1. Install required Python packages by running: `pip install -r requirements.txt`
 1. Start JupyterLab by running: `jupyter-lab`
